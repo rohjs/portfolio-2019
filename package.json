@@ -23,6 +23,8 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.4",
     "@babel/plugin-proposal-decorators": "^7.3.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@zeit/next-typescript": "^1.1.1",
     "connect-mongo": "^2.0.3",
     "dotenv": "^6.2.0",
     "express-session": "^1.15.6",
@@ -41,7 +43,6 @@
     "@types/next": "^8.0.1",
     "@types/react": "^16.8.6",
     "@types/react-dom": "^16.8.2",
-    "@zeit/next-typescript": "^1.1.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongoose": "^5.4.17",

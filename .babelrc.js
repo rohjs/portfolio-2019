@@ -1,3 +1,6 @@
-module.exports = {
-  preset: ['next/babel', '@zeit/next-typescript/babel']
+{
+  "presets": [
+    "next/babel",
+    "@zeit/next-typescript/babel"
+  ]
 }
